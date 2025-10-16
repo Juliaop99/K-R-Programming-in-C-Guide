@@ -8,4 +8,5 @@ As said in the description of the repository, this contains the K&R prgramming g
 - **Point 1.5 Character input and output:**  
   `inputOutput1.c`
 - **Point 1.6 Arrays**
+  `arrays.c`
     
